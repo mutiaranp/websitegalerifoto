@@ -1,0 +1,14 @@
+.nav-link{
+    font-weight: 500;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.bg-hero{
+    background: url('../img/big-entrance-gate-bali-indonesia.jpg') no-repeat;
+    background-size: cover;
+}
+body{
+    background-image: url('../img/satu.jpg');
+    background-size: cover;
+  }
